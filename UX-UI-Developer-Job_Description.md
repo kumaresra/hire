@@ -19,7 +19,6 @@
 
 ## Requirement:
 -	Engineering degree with 8+ years of experience in application software product development.
--	A minimum of 3 years of experience leading technical teams
 -	A minimum of 8 years industry technical experience working on consumer facing User Interfaces.
 -	Strong knowledge of UI technologies such as HTML, CSS, and Javascript, Bootstrap, JavaScript frameworks (full stack development).
 -	Thorough understanding of all phases of software development lifecycle, specifically Agile/Scrum.
@@ -32,9 +31,7 @@
 -	Experience of cross browser compatible coding and modular coding (HTML, CSS templates, JavaScript dependency management).
 -	Should have strong debugging skills on Developer Tools of the browser and Working with Cross Browser UI.
 -	Should have experience in publishing and consuming Services using REST API.
--	Experience with.Net Technologies is an added advantage.
 -	Experience with Ionic/Cordova/Xamarin Framework is an added advantage.
--	Experience in Hospitality experience industry is preferred (not mandated though).
 
 ## Responsibilities:
 -	Create wireframes, storyboards, user journeys, and prototypes to effectively communicate interaction and design ideas
