@@ -10,7 +10,7 @@
 
 ## Requirements: 
 
--	Overall, 7+ years of experience in designing enterprise and consumer web applications 
+-	Overall, 8+ years of experience in designing enterprise and consumer web applications 
 -	Advanced skills in HTML 5, CSS, Bootstrap, Angular 2 and above.
 -	Write clean HTML / CSS code.
 -	Proficient in Adobe XD, Sketch and other designing tools.
@@ -19,7 +19,7 @@
 
 ## Requirement:
 -	Engineering degree with 8+ years of experience in application software product development.
--	A minimum of 8 years industry technical experience working on consumer facing User Interfaces.
+-	A minimum of 4 years industry technical experience working on consumer facing User Interfaces.
 -	Strong knowledge of UI technologies such as HTML, CSS, and Javascript, Bootstrap, JavaScript frameworks (full stack development).
 -	Thorough understanding of all phases of software development lifecycle, specifically Agile/Scrum.
 -	Good communication skills (written and verbal) and presentation skills.
